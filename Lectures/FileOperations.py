@@ -12,5 +12,5 @@
 
 # ? Reading form a file
 
-# with open("myFile.txt", "r") as ourFile:
-#     print(ourFile.read())
+with open("myFile.txt", "r") as ourFile:
+    print(ourFile.read(), "File opened successfully")

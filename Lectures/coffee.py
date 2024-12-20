@@ -5,3 +5,6 @@ coffee3 = "soft"
 
 def show(n):
     print(n)
+
+
+show("Hello there!")

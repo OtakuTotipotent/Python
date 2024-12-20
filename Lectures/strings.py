@@ -9,8 +9,8 @@
 # print(message.count('afnan'))
 
 
-# message = "hello, i am muhammad afnan hassan"
-# print(message.capitalize())
+message = "hello, i am muhammad afnan hassan"
+print(message.capitalize())
 
 # age = "18"
 # print(age.isnumeric())
